@@ -222,7 +222,7 @@ html{
 /* -----Header----- */
 /* -----Header----- */
 .page-1{
-    background-image: url(/bg.jpg);
+    background-image: url(bg.jpg);
     background-size: cover;
     background-attachment: fixed;
     height: 100vh;
@@ -813,7 +813,7 @@ figure.snip1104.hover:before {
   padding-bottom: 10vh;
   display: flex;
   flex-direction: column;
-  background-image: url(/bg2.jpg);
+  background-image: url(bg2.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -893,7 +893,7 @@ figure.snip1104.hover:before {
 /* ------CONTACT----- */
 .page6{
   padding-top: 20vh;
-  background-image: url(/bg3.jpg);
+  background-image: url(bg3.jpg);
   background-size: cover;
   padding-bottom: 10vh;
 }
